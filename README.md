@@ -6,15 +6,11 @@
 
 ###
 
-<p align="center">🔹 Salut, je suis développeur autodidacte. 🔹<br>🔹Je cherche à collaborer sur tout projet. 🔹<br><br>================================================<br><br>🔹 Je suis intéressé par du. 🔹<br>[[ html ]]<br>[[ css ]]<br>[[ JavaScript ]]<br>[[ python ]]<br>[[ lua ]]<br>🔹 Et biens plus. 🔹<br><br>================================================<br><br>🔹Projet en cours ou terminé. 🔹<br>(( FiveM Serveur RP ))<br>(( FGQC_Mods_Organizer | American Truck Simulator & Euro Truck Simulator ))<br>(( MineCraft ))<br>(( FGQC_Bot_Music_Discord )) <br>(( FGQC_Auto_Clicker ))<br>(( SiteWeb de vente pour art pour enfants ))</p>
+<h6 align="center">🔹Salut, je suis développeur autodidacte. 🔹<br>🔹Je cherche à collaborer sur tout projet. 🔹<br><br>================================================<br><br>🔹Projet en cours ou terminé. 🔹<br>(( FiveM Serveur RP ))<br>(( FGQC_Mods_Organizer | American Truck Simulator & Euro Truck Simulator ))<br>(( Serveur MineCraft Privée ))<br>(( FGQC_Bot_Music_Discord )) <br>(( FGQC_Auto_Clicker ))<br>(( SiteWeb de vente pour art pour enfants ))<br><br>================================================</h6>
 
 ###
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="twitch logo"  />
-</div>
+<h5 align="center">🔥 Je suis intéressé par du. 🔥<br>🔹 Et biens plus. 🔹<br><br>================================================</h5>
 
 ###
 
@@ -38,6 +34,28 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="40" alt="putty logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
+
+###
+
+<h5 align="center">================================================<br><br>⬇️ [[ Rejoignez-moi ]] ⬇️<br><br>================================================</h5>
+
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <a href="https://www.youtube.com/@FGQC_YT" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+  <a href="https://www.twitch.tv/fgqc_tv" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="twitch logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://image.noelshack.com/fichiers/2025/15/4/1744305942-200w.gif"  />
 </div>
 
 ###
