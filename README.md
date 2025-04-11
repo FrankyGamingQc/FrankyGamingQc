@@ -1,16 +1,12 @@
-<h1 align="left">Salut 👋 Quoi de neuf ?</h1>
+<h1 align="center">👋 Salut, moi c’est [ Franky ] !</h1>
 
 ###
 
-<h2 align="left">About me</h2>
+<p align="center">─────────────────────────────────────────────────────────────────────<br><br>Je suis un développeur autodidacte passionné par la programmation et les technologies web.<br><br>J’aime apprendre par moi-même, relever des défis techniques et transformer des idées en projets concrets. Mon univers tourne autour du développement de serveurs, d’outils pratiques et d’automatisation.<br><br>Je suis toujours ouvert à de nouvelles collaborations et à partager mes compétences avec d'autres passionnés.<br><br>─────────────────────────────────────────────────────────────────────<br><br>🚀 Projets réalisés ou en cours :<br><br>🎮 Serveur RP FiveM<br>Création complète d’un serveur GTA V RP avec scripts personnalisés.<br><br>🛠 FGQC Mods Organizer<br>Un gestionnaire de mods automatique pour American Truck Simulator et Euro Truck Simulator 2.<br><br>🧱 Serveur Minecraft Privé<br>Déploiement et gestion d’un serveur privé avec plugins personnalisés.<br><br>🎵 FGQC Bot Music Discord<br>Un bot musical pour Discord, simple et fonctionnel.<br><br>🖱 FGQC Auto Clicker<br>Un logiciel d'autoclicker léger, utile pour divers usages.<br><br>🎨 Site web de vente d’art pour enfants<br>Plateforme de présentation et de vente de créations artistiques.<br><br>─────────────────────────────────────────────────────────────────────</p>
 
 ###
 
-<h6 align="center">🔹Salut, je suis développeur autodidacte. 🔹<br>🔹Je cherche à collaborer sur tout projet. 🔹<br><br>================================================<br><br>🔹Projet en cours ou terminé. 🔹<br>(( FiveM Serveur RP ))<br>(( FGQC_Mods_Organizer | American Truck Simulator & Euro Truck Simulator ))<br>(( Serveur MineCraft Privée ))<br>(( FGQC_Bot_Music_Discord )) <br>(( FGQC_Auto_Clicker ))<br>(( SiteWeb de vente pour art pour enfants ))<br><br>================================================</h6>
-
-###
-
-<h5 align="center">🔥 Je suis intéressé par du. 🔥<br>🔹 Et biens plus. 🔹<br><br>================================================</h5>
+<p align="center">🔥 Je suis intéressé par du. 🔥<br>🔹 Et biens plus. 🔹<br><br>─────────────────────────────────────────────────────────────────────</p>
 
 ###
 
@@ -38,7 +34,7 @@
 
 ###
 
-<h5 align="center">================================================<br><br>⬇️ [[ Rejoignez-moi ]] ⬇️<br><br>================================================</h5>
+<p align="center">─────────────────────────────────────────────────────────────────────<br><br>⬇️ [[ Rejoignez-moi ]] ⬇️<br><br>─────────────────────────────────────────────────────────────────────</p>
 
 ###
 
